@@ -1,0 +1,8 @@
+.content{
+    grid-row: c;
+    background-color: palevioletred;
+  }
+
+  .item{
+    color: blue;
+  }

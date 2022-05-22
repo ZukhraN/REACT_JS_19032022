@@ -1,0 +1,10 @@
+.content{
+    grid-row: c;
+    background-color: palevioletred;
+  }
+
+  .item img{
+    width: 50px;
+    height: 60px;
+    border-radius: 15px;  
+  }
